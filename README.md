@@ -21,7 +21,7 @@ flowchart TD
     G[Decision-Ready Insights]
 
     A --> B --> C --> D --> E --> F --> G
-
+```
 ---
 
 ## Areas of Focus
