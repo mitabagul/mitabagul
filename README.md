@@ -9,13 +9,16 @@ Data Analytics & Engineering professional with hands-on experience building ETL 
 ### How My Work Flows
 
 ```mermaid
-flowchart LR
-  A[Business Question] --> B[Metric & Assumptions]
-  B --> C[ETL & Data Modeling]
-  C --> D[SQL & KPI Analysis]
-  D --> E[Forecasting / Experimentation]
-  E --> F[GenAI-Assisted Templates]
-  F --> G[Decision-Ready Insights]
+flowchart TD
+    A[Business Question]
+    B[Metrics & Assumptions]
+    C[ETL & Data Modeling]
+    D[SQL & KPI Analysis]
+    E[Forecasting]
+    F[GenAI Templates]
+    G[Decision-Ready Insights]
+
+    A --> B --> C --> D --> E --> F --> G
 ```
 ---
 
