@@ -16,7 +16,8 @@ flowchart LR
   D --> E[Forecasting / Experimentation]
   E --> F[GenAI-Assisted Templates]
   F --> G[Decision-Ready Insights]
-
+```
+---
 
 ### Areas of Focus
 - **Data Engineering:** Designing modular, config-driven pipelines with validation and testing
