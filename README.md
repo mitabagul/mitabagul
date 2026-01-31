@@ -2,7 +2,20 @@
 
 Data Analytics & Engineering professional with hands-on experience building ETL pipelines, product analytics workflows, forecasting baselines, and GenAI-enabled tools. I focus on translating ambiguous business questions into clear, maintainable data solutions that teams can trust.
 
+**Focus:** Data Engineering • Product Analytics • Forecasting • Applied GenAI (Prompt Engineering)
+
 ---
+
+### How My Work Flows
+
+```mermaid
+flowchart LR
+    A[Business Question] --> B[Metric & Assumptions]
+    B --> C[ETL & Data Modeling]
+    C --> D[SQL & KPI Analysis]
+    D --> E[Forecasting / Experimentation]
+    E --> F[GenAI-Assisted Templates]
+    F --> G[Decision-Ready Insights]
 
 ### Areas of Focus
 - **Data Engineering:** Designing modular, config-driven pipelines with validation and testing
@@ -13,24 +26,18 @@ Data Analytics & Engineering professional with hands-on experience building ETL 
 ---
 
 ### Tool Stack
-**Languages:**  
-Python, SQL  
+**Languages:**  Python, SQL  
 
-**Data & Analytics:**  
-Pandas, NumPy, Jupyter  
+**Data & Analytics:**  Pandas, NumPy, Jupyter  
 
-**Big Data & Warehousing:**  
-Google BigQuery, SQL-based analytics on large datasets  
+**Big Data & Warehousing:**  Google BigQuery, SQL-based analytics on large datasets  
 
-**Visualization & BI:**  
-Tableau, Power BI, Excel  
+**Visualization & BI:**  Tableau, Power BI, Excel  
 
-**Data Engineering & Cloud:**  
-Git/GitHub, YAML-based configs, modular pipelines  
+**Data Engineering & Cloud:**  Git/GitHub, YAML-based configs, modular pipelines  
 AWS (S3, Glue, Redshift – exposure)  
 
-**GenAI & AI Concepts:**  
-Prompt engineering, prompt templates, ambiguity handling, guardrails, CLI-based tooling  
+**GenAI & AI Concepts:**  Prompt engineering, prompt templates, ambiguity handling, guardrails, CLI-based tooling  
 
 ---
 
@@ -46,7 +53,7 @@ Prompt engineering, prompt templates, ambiguity handling, guardrails, CLI-based 
 - **Scalable Data Pipeline** — config-driven ETL with validation and tests  
 - **Product Analytics (SQL + Python)** — KPI design with runnable examples  
 - **Forecasting Experiments** — baseline forecasting and evaluation mindset  
-- **GenAI Analytics Assistant** — natural language → SQL templates with guardrails  
+- **GenAI Analytics Assistant** — natural language → SQL templates with guardrails
 
 📌 Repositories are pinned below  
 
