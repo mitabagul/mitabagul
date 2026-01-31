@@ -10,12 +10,13 @@ Data Analytics & Engineering professional with hands-on experience building ETL 
 
 ```mermaid
 flowchart LR
-    A[Business Question] --> B[Metric & Assumptions]
-    B --> C[ETL & Data Modeling]
-    C --> D[SQL & KPI Analysis]
-    D --> E[Forecasting / Experimentation]
-    E --> F[GenAI-Assisted Templates]
-    F --> G[Decision-Ready Insights]
+  A[Business Question] --> B[Metric & Assumptions]
+  B --> C[ETL & Data Modeling]
+  C --> D[SQL & KPI Analysis]
+  D --> E[Forecasting / Experimentation]
+  E --> F[GenAI-Assisted Templates]
+  F --> G[Decision-Ready Insights]
+
 
 ### Areas of Focus
 - **Data Engineering:** Designing modular, config-driven pipelines with validation and testing
