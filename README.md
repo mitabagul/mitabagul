@@ -66,7 +66,7 @@ A data modeling project comparing star and snowflake schemas, a scalable ETL pip
 
 ### 🛠️ Tools I’m comfortable with
 
-Python, SQL, pandas, NumPy, Jupyter, Snowflake, BigQuery, Tableau, Power BI, Excel, along with some exposure to AWS tools like S3, Glue, and Redshift.
+Python (pandas, NumPy), SQL, Jupyter, Snowflake, BigQuery, Tableau, Power BI, Excel, AWS (S3, Glue, Redshift)
 
 ---
 
