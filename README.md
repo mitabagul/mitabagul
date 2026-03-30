@@ -1,124 +1,85 @@
-## Hi, I’m Mita 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=150&section=header&text=Where%20messy%20data%20meets%20clear%20decisions&fontSize=22&fontColor=ffffff"/>
+</p>
 
-I’m a data professional with 3+ years of experience solving business problems using **analytics, data engineering, and applied AI**.
+# Hi, I’m Mita 👋
 
-I specialize in turning ambiguous questions into **structured data models, scalable pipelines, and decision-ready insights** that drive measurable business impact.
+I work with data, but I care more about what it represents: people, decisions, and the stories we often miss when we only look at numbers.
 
-**Focus:** Data Engineering • Product Analytics • Decision Science • Applied GenAI
-
----
-
-## 🚀 What I Bring
-
-* Built analytics solutions that contributed to **$1.5M+ in cost savings** through supply chain optimization
-* Improved **lead conversion by 40%** by analyzing customer behavior and funnel performance
-* Designed **A/B testing frameworks** that delivered statistically significant product improvements
-* Developed **data pipelines and modeling layers** to reduce manual analysis time and improve reliability
+Somewhere between analytics, engineering, and product thinking, I’ve found my space : taking messy, unclear problems and slowly shaping them into something structured, meaningful, and useful.
 
 ---
 
-## 🧠 How I Approach Problems
-
-I don’t just analyze data—I structure it for decision-making.
+### 🧠 How I Think About Data
 
 ```mermaid
-flowchart TD
-    A[Business Problem]
-    B[Metric Definition & Assumptions]
-    C[Data Modeling (Star / Snowflake)]
-    D[Data Pipelines & Validation]
-    E[SQL & Analytical Layer]
-    F[Experimentation / Forecasting]
-    G[Decision & Business Impact]
+flowchart LR
+    A[Ambiguous Problem]
+    B[Understand Context]
+    C[Define Metrics]
+    D[Model the Data]
+    E[Analyze with SQL and Python]
+    F[Generate Insight]
+    G[Drive Decision]
 
     A --> B --> C --> D --> E --> F --> G
 ```
+---
+
+### 🌱 What that has looked like in practice
+
+Over time, I’ve worked on problems where the data wasn’t perfect, but the impact mattered.
+
+Contributing to supply chain decisions that led to $1.5M+ in cost savings, improving lead conversion by 40% by understanding user behavior, designing experiments that helped teams move forward with confidence, and building data systems that people can actually trust and use.
 
 ---
 
-## 🧩 Core Strengths
+### 🧠 How I approach problems
 
-### 📊 Product & Business Analytics
+I don’t jump straight into SQL or models.
 
-* KPI design, funnel analysis, cohort analysis, experimentation
-* Translating product questions into measurable success metrics
+I like to sit with the problem first, understand what we’re really trying to answer, what success looks like, and what assumptions we might be making.
 
-### ⚙️ Data Engineering & Modeling
+From there, things tend to flow like this:
 
-* Designing **ETL pipelines and dimensional models (star/snowflake)**
-* Building clean, analytics-ready datasets from messy raw data
-
-### 📈 Forecasting & Decision Science
-
-* Time-series forecasting with focus on interpretability and business use
-* Scenario analysis and trade-off evaluation
-
-### 🤖 Applied GenAI
-
-* Prompt engineering and structured prompting
-* Building AI-assisted analytics workflows with guardrails
+question → metrics → data model → pipelines → analysis → insight → decision
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ What I spend most of my time doing
 
-**Languages:**
-Python, SQL
+Working on product and business analytics, defining meaningful metrics, understanding user behavior, and breaking down vague questions into something measurable.
 
-**Data & Analytics:**
-Pandas, NumPy, Jupyter
+Building data pipelines and modeling layers, using approaches like star and snowflake schemas to make data easier to work with.
 
-**Warehousing & Big Data:**
-Snowflake, Google BigQuery, SQL-based large-scale analytics
+Exploring forecasting and decision-making, starting simple and keeping things interpretable.
 
-**Visualization:**
-Tableau, Power BI, Excel
-
-**Data Engineering:**
-ETL pipelines, data modeling, validation frameworks
-
-**Cloud & Tools:**
-AWS (S3, Glue, Redshift), Git/GitHub
-
-**GenAI:**
-Prompt engineering, structured templates, ambiguity handling, guardrails
+And more recently, working with GenAI — thinking about prompts, structure, and how to make analytics workflows more intuitive.
 
 ---
 
-## 📌 Selected Projects
+### 🧩 Things I’ve built
 
-* **Star vs Snowflake Schema (Data Modeling)**
-  Designed dimensional models and compared schema performance for analytics use cases
-
-* **Scalable Data Pipeline**
-  Config-driven ETL pipelines with validation and modular architecture
-
-* **Product Analytics (SQL + Python)**
-  KPI design, cohort analysis, and business insights generation
-
-* **A/B Testing Analytics**
-  Experiment design, statistical testing, and decision recommendations
-
-* **Forecasting Experiments**
-  Time-series modeling with business-focused evaluation
-
-* **GenAI Analytics Assistant**
-  Natural language to SQL system with guardrails and structured prompts
+A data modeling project comparing star and snowflake schemas, a scalable ETL pipeline with validation and modular design, product analytics work combining SQL and Python, A/B testing frameworks for experimentation, forecasting projects grounded in business context, and a GenAI - powered analytics assistant.
 
 ---
 
-## 💡 How I Work
+### 🛠️ Tools I’m comfortable with
 
-* Break down ambiguous problems into structured analytical frameworks
-* Balance **technical depth with business impact**
-* Focus on **clarity, scalability, and reproducibility**
-* Comfortable working across product, business, and engineering teams
+Python, SQL, pandas, NumPy, Jupyter, Snowflake, BigQuery, Tableau, Power BI, Excel, along with some exposure to AWS tools like S3, Glue, and Redshift.
 
 ---
 
-## 📫 Let’s Connect
+### 🌿 How I like to work
 
-I’m actively exploring opportunities in:
-**Data Analytics • Product Analytics • Data Science • Analytics Engineering**
+With clarity, curiosity, and empathy.
 
-Feel free to connect or reach out 🚀
+I try to understand the people using the data, not just the data itself, and I care about building solutions that are not only correct, but also usable, simple, and maintainable.
+
+---
+
+### ✨ Currently
+
+Exploring opportunities in data analytics, product analytics, data science, and analytics engineering.
+
+Always open to conversations, ideas, and building something meaningful 🚀
