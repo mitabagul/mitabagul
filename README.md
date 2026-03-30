@@ -1,89 +1,124 @@
 ## Hi, I’m Mita 👋
 
-Data Analytics & Engineering professional with hands-on experience building ETL pipelines, product analytics workflows, forecasting baselines, and GenAI-enabled tools. I focus on translating ambiguous business questions into clear, maintainable data solutions that teams can trust.
+I’m a data professional with 3+ years of experience solving business problems using **analytics, data engineering, and applied AI**.
 
-**Focus:** Data Engineering • Product Analytics • Forecasting • Applied GenAI (Prompt Engineering)
+I specialize in turning ambiguous questions into **structured data models, scalable pipelines, and decision-ready insights** that drive measurable business impact.
+
+**Focus:** Data Engineering • Product Analytics • Decision Science • Applied GenAI
 
 ---
 
-## How My Work Flows
+## 🚀 What I Bring
 
-This repository documents how I typically approach analytics and data problems — from an initial business question to decision-ready insights.
+* Built analytics solutions that contributed to **$1.5M+ in cost savings** through supply chain optimization
+* Improved **lead conversion by 40%** by analyzing customer behavior and funnel performance
+* Designed **A/B testing frameworks** that delivered statistically significant product improvements
+* Developed **data pipelines and modeling layers** to reduce manual analysis time and improve reliability
+
+---
+
+## 🧠 How I Approach Problems
+
+I don’t just analyze data—I structure it for decision-making.
 
 ```mermaid
 flowchart TD
-    A[Business Question]
-    B[Metrics & Assumptions]
-    C[ETL & Data Modeling]
-    D[SQL & KPI Analysis]
-    E[Forecasting]
-    F[GenAI Templates]
-    G[Decision-Ready Insights]
+    A[Business Problem]
+    B[Metric Definition & Assumptions]
+    C[Data Modeling (Star / Snowflake)]
+    D[Data Pipelines & Validation]
+    E[SQL & Analytical Layer]
+    F[Experimentation / Forecasting]
+    G[Decision & Business Impact]
 
     A --> B --> C --> D --> E --> F --> G
 ```
----
-
-## Areas of Focus
-
-- **Data Engineering**  
-  Designing modular, config-driven pipelines with validation and testing
-
-- **Product & Business Analytics**  
-  Defining KPIs, writing SQL-first analyses, validating results in Python
-
-- **Forecasting & Data Science**  
-  Using interpretable baselines before introducing complex models
-
-- **Applied GenAI**  
-  Prompt engineering, ambiguity handling, and guardrail-driven analytics assistants
 
 ---
 
-## Tool Stack
+## 🧩 Core Strengths
 
-**Languages**  
+### 📊 Product & Business Analytics
+
+* KPI design, funnel analysis, cohort analysis, experimentation
+* Translating product questions into measurable success metrics
+
+### ⚙️ Data Engineering & Modeling
+
+* Designing **ETL pipelines and dimensional models (star/snowflake)**
+* Building clean, analytics-ready datasets from messy raw data
+
+### 📈 Forecasting & Decision Science
+
+* Time-series forecasting with focus on interpretability and business use
+* Scenario analysis and trade-off evaluation
+
+### 🤖 Applied GenAI
+
+* Prompt engineering and structured prompting
+* Building AI-assisted analytics workflows with guardrails
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
 Python, SQL
 
-**Data & Analytics**  
+**Data & Analytics:**
 Pandas, NumPy, Jupyter
 
-**Big Data & Warehousing**  
-Google BigQuery, SQL-based analytics on large datasets
+**Warehousing & Big Data:**
+Snowflake, Google BigQuery, SQL-based large-scale analytics
 
-**Visualization & BI**  
+**Visualization:**
 Tableau, Power BI, Excel
 
-**Data Engineering & Cloud**  
-Git/GitHub, YAML-based configs, modular pipelines  
-AWS (S3, Glue, Redshift – exposure)
+**Data Engineering:**
+ETL pipelines, data modeling, validation frameworks
 
-**GenAI & AI Concepts**  
-Prompt engineering, prompt templates, ambiguity handling, guardrails, CLI-based tooling
+**Cloud & Tools:**
+AWS (S3, Glue, Redshift), Git/GitHub
 
----
-
-## How I Work
-
-- Partner with product managers, analysts, and engineers to clarify requirements
-- Convert vague business questions into explicit metrics and assumptions
-- Prioritize readability, reproducibility, and safety over over-engineering
-- Comfortable operating in cross-functional, fast-paced environments
+**GenAI:**
+Prompt engineering, structured templates, ambiguity handling, guardrails
 
 ---
 
-## Selected Projects
+## 📌 Selected Projects
 
-- **Scalable Data Pipeline**  
-  Config-driven ETL with validation and tests
+* **Star vs Snowflake Schema (Data Modeling)**
+  Designed dimensional models and compared schema performance for analytics use cases
 
-- **Product Analytics (SQL + Python)**  
-  KPI design with runnable examples
+* **Scalable Data Pipeline**
+  Config-driven ETL pipelines with validation and modular architecture
 
-- **Forecasting Experiments**  
-  Baseline forecasting and evaluation mindset
+* **Product Analytics (SQL + Python)**
+  KPI design, cohort analysis, and business insights generation
 
-- **GenAI Analytics Assistant**  
-  Natural language to SQL templates with guardrails
+* **A/B Testing Analytics**
+  Experiment design, statistical testing, and decision recommendations
 
-Repositories are pinned below.
+* **Forecasting Experiments**
+  Time-series modeling with business-focused evaluation
+
+* **GenAI Analytics Assistant**
+  Natural language to SQL system with guardrails and structured prompts
+
+---
+
+## 💡 How I Work
+
+* Break down ambiguous problems into structured analytical frameworks
+* Balance **technical depth with business impact**
+* Focus on **clarity, scalability, and reproducibility**
+* Comfortable working across product, business, and engineering teams
+
+---
+
+## 📫 Let’s Connect
+
+I’m actively exploring opportunities in:
+**Data Analytics • Product Analytics • Data Science • Analytics Engineering**
+
+Feel free to connect or reach out 🚀
